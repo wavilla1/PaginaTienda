@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+:root {
+  --surface: #f8fafc;
+  --foreground: #0f172a;
+}
+
+@theme inline {
+  --color-background: var(--surface);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sora);
+  --font-mono: var(--font-space-grotesk);
+}
+
+body {
+  background: radial-gradient(circle at 0% 0%, #e6fffb 0, transparent 30%),
+    radial-gradient(circle at 100% 10%, #ffe9d6 0, transparent 35%), var(--surface);
+  color: var(--foreground);
+  font-family: var(--font-sora), sans-serif;
+}
