@@ -1,0 +1,14 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg1)"/>
+  <circle cx="220" cy="180" r="120" fill="white" fill-opacity="0.15"/>
+  <circle cx="980" cy="720" r="170" fill="white" fill-opacity="0.12"/>
+  <rect x="330" y="280" width="540" height="340" rx="44" fill="white" fill-opacity="0.15"/>
+  <text x="600" y="430" text-anchor="middle" fill="white" font-size="56" font-family="Arial, sans-serif" font-weight="700">Aurora Buds Pro</text>
+  <text x="600" y="500" text-anchor="middle" fill="white" font-size="30" font-family="Arial, sans-serif" font-weight="500">Imagen local 1</text>
+</svg>

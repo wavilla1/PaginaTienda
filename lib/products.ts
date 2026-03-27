@@ -19,10 +19,7 @@ export const PRODUCTS: Product[] = [
     stock: 25,
     category: "audio",
     tags: ["bluetooth", "anc", "deporte"],
-    images: [
-      "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1200&q=80",
-    ],
+    images: ["/products/aurora-buds-1.svg", "/products/aurora-buds-2.svg"],
     featured: true,
     popularScore: 92,
   },
