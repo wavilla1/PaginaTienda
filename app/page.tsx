@@ -16,13 +16,12 @@ export default function Home() {
               </div>
 
               <h1 className="mt-6 max-w-2xl font-[var(--font-space-grotesk)] text-4xl font-black leading-tight tracking-tight text-slate-900 sm:text-5xl lg:text-6xl">
-                Tu ecommerce de tecnologia,
-                <span className="text-[#0f766e]"> rapido y sin friccion.</span>
+                El mejor ecommerce del mercado,
+                <span className="text-[#0f766e]"> rapido y con todo a la mano.</span>
               </h1>
 
               <p className="mt-5 max-w-xl text-base leading-7 text-slate-600 sm:text-lg">
-                Compra auriculares, wearables y accesorios premium con checkout optimizado para
-                Vercel, pagos online y soporte inmediato por WhatsApp.
+                Compra auriculares, wearables y accesorios premium con toda la seguridad al hacer tus compras y soporte inmediato por WhatsApp.
               </p>
 
               <form action="/products" className="mt-8 flex flex-col gap-3 sm:flex-row">
@@ -56,7 +55,7 @@ export default function Home() {
 
             <div className="rounded-3xl border border-slate-200 bg-gradient-to-br from-[#ccfbf1] via-[#f8fafc] to-[#fed7aa] p-6 shadow-xl">
               <p className="text-sm font-semibold uppercase tracking-wide text-slate-700">
-                Beneficios NovaStore
+                Beneficios WilliStore
               </p>
               <ul className="mt-5 space-y-4 text-sm text-slate-700">
                 <li className="rounded-xl bg-white/80 p-4">Envios express a todo el pais.</li>
