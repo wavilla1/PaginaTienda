@@ -7,7 +7,7 @@ export function Navbar() {
     <header className="sticky top-0 z-30 border-b border-slate-200/70 bg-white/90 backdrop-blur">
       <div className="mx-auto flex w-full max-w-7xl items-center justify-between gap-4 px-4 py-3 sm:px-6 lg:px-8">
         <Link href="/" className="text-lg font-black tracking-tight text-slate-900">
-          Nova<span className="text-[#0f766e]">Store</span>
+          Willi<span className="text-[#0f766e]">Store</span>
         </Link>
 
         <nav className="hidden items-center gap-5 text-sm font-medium text-slate-600 lg:flex">
